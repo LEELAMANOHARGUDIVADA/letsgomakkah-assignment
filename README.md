@@ -6,7 +6,7 @@ This project is a Flight Booking Application built using MERN, Tailwind & Razorp
   grid-template-columns: repeat(3, 1fr);
   gap: 30px;
 ">
-  <img src="./client/src/assets/preview/1.png" alt="" style="width: 100%; height: 200px; object-fit: contain;" />
+  <img src="./client/src/assets/preview/1.png" alt="" style="width: 100%; height: 400px; object-fit: contain;" />
   <img src="./client/src/assets/preview/2.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
   <img src="./client/src/assets/preview/3.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
   <img src="./client/src/assets/preview/4.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
