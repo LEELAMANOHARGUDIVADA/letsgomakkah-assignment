@@ -100,7 +100,7 @@ export default function Register() {
                     </form>
                 </div>
             ) : (
-                <div className="mt-10 w-full flex flex-col items-center justify-center gap-5">
+                <div className="mt-10 w-full lg:w-100 flex flex-col items-center justify-center gap-5">
                     <img src={images.logo_light} alt="logo" className="w-40" />
                     <h2 className="text-2xl font-medium mt-5">Create an account</h2>
                     <form onSubmit={handleSubmit} className="w-full flex flex-col items-center justify-center gap-8 px-10">
