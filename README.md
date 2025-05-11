@@ -1,24 +1,29 @@
 # Let's Go Makkah's Assignment 👋
 This project is a Flight Booking Application built using MERN, Tailwind & Razorpay
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 30px;
-">
-  <img src="./client/src/assets/preview/1.png" alt="" style="width: 100%; height: 400px; object-fit: contain;" />
-  <img src="./client/src/assets/preview/2.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/3.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/4.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/5.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/6.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/7.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/8.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/9.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/10.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/11.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-  <img src="./client/src/assets/preview/12.png" alt="" style="width: 100%; height: 200px; object-fit: cover;" />
-</div>
+<table>
+  <tr>
+    <td><img src="./client/src/assets/preview/1.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/2.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/3.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="./client/src/assets/preview/4.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/5.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/6.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="./client/src/assets/preview/7.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/8.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/9.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="./client/src/assets/preview/10.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/11.png" width="250"/></td>
+    <td><img src="./client/src/assets/preview/12.png" width="250"/></td>
+  </tr>
+</table>
+
 
 
 
